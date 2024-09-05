@@ -1,2 +1,3 @@
 # CNNAssistedLorentzianSpectrumFit
-this project attempts to use CNN to assist in the spectral line fitting of Lorentzian lines
+This project attempts to use CNN to assist in the spectral line fitting of Lorentzian lines.  
+![the flow of processing spectrum]()
